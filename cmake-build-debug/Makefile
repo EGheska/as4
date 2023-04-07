@@ -129,6 +129,54 @@ untitled33/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled33.dir/build.make CMakeFiles/untitled33.dir/build
 .PHONY : untitled33/fast
 
+counter.o: counter.cpp.o
+.PHONY : counter.o
+
+# target to build an object file
+counter.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled33.dir/build.make CMakeFiles/untitled33.dir/counter.cpp.o
+.PHONY : counter.cpp.o
+
+counter.i: counter.cpp.i
+.PHONY : counter.i
+
+# target to preprocess a source file
+counter.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled33.dir/build.make CMakeFiles/untitled33.dir/counter.cpp.i
+.PHONY : counter.cpp.i
+
+counter.s: counter.cpp.s
+.PHONY : counter.s
+
+# target to generate assembly for a file
+counter.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled33.dir/build.make CMakeFiles/untitled33.dir/counter.cpp.s
+.PHONY : counter.cpp.s
+
+file_counts.o: file_counts.cpp.o
+.PHONY : file_counts.o
+
+# target to build an object file
+file_counts.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled33.dir/build.make CMakeFiles/untitled33.dir/file_counts.cpp.o
+.PHONY : file_counts.cpp.o
+
+file_counts.i: file_counts.cpp.i
+.PHONY : file_counts.i
+
+# target to preprocess a source file
+file_counts.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled33.dir/build.make CMakeFiles/untitled33.dir/file_counts.cpp.i
+.PHONY : file_counts.cpp.i
+
+file_counts.s: file_counts.cpp.s
+.PHONY : file_counts.s
+
+# target to generate assembly for a file
+file_counts.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled33.dir/build.make CMakeFiles/untitled33.dir/file_counts.cpp.s
+.PHONY : file_counts.cpp.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -186,6 +234,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... untitled33"
+	@echo "... counter.o"
+	@echo "... counter.i"
+	@echo "... counter.s"
+	@echo "... file_counts.o"
+	@echo "... file_counts.i"
+	@echo "... file_counts.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

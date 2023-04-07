@@ -8,6 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/Users/dimooon/CLionProjects/untitled33/counter.cpp" "/Users/dimooon/CLionProjects/untitled33/cmake-build-debug/CMakeFiles/untitled33.dir/counter.cpp.o"
+  "/Users/dimooon/CLionProjects/untitled33/file_counts.cpp" "/Users/dimooon/CLionProjects/untitled33/cmake-build-debug/CMakeFiles/untitled33.dir/file_counts.cpp.o"
   "/Users/dimooon/CLionProjects/untitled33/main.cpp" "/Users/dimooon/CLionProjects/untitled33/cmake-build-debug/CMakeFiles/untitled33.dir/main.cpp.o"
   "/Users/dimooon/CLionProjects/untitled33/options.cpp" "/Users/dimooon/CLionProjects/untitled33/cmake-build-debug/CMakeFiles/untitled33.dir/options.cpp.o"
   )

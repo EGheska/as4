@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/untitled33.dir/counter.cpp.o"
+  "CMakeFiles/untitled33.dir/file_counts.cpp.o"
   "CMakeFiles/untitled33.dir/main.cpp.o"
   "CMakeFiles/untitled33.dir/options.cpp.o"
   "untitled33"

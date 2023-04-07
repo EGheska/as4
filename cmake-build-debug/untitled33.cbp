@@ -80,6 +80,18 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/dimooon/CLionProjects/untitled33/counter.cpp">
+			<Option target="untitled33"/>
+		</Unit>
+		<Unit filename="/Users/dimooon/CLionProjects/untitled33/counter.h">
+			<Option target="untitled33"/>
+		</Unit>
+		<Unit filename="/Users/dimooon/CLionProjects/untitled33/file_counts.cpp">
+			<Option target="untitled33"/>
+		</Unit>
+		<Unit filename="/Users/dimooon/CLionProjects/untitled33/file_counts.h">
+			<Option target="untitled33"/>
+		</Unit>
 		<Unit filename="/Users/dimooon/CLionProjects/untitled33/main.cpp">
 			<Option target="untitled33"/>
 		</Unit>

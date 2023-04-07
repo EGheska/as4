@@ -45,7 +45,7 @@ private:
     bool _char;
     bool _byte;
     bool _longline;
-    bool _help;
+    bool _help{false};
     bool _version;
     bool _verbose;
     std::vector<std::string> _file_names;
